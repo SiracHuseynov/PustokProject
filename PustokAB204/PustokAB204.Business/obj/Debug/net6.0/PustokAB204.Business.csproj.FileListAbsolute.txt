@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Business.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Business.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Business.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Data.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Data.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.sourcelink.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB.156B6F01.Up2Date
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\refint\PustokAB204.Business.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\ref\PustokAB204.Business.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Business.deps.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Business.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Data.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\bin\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.sourcelink.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB.156B6F01.Up2Date
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\refint\PustokAB204.Business.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\PustokAB204.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Business\obj\Debug\net6.0\ref\PustokAB204.Business.dll

@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.sourcelink.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB.E34AA384.Up2Date
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\refint\PustokAB204.Data.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\ref\PustokAB204.Data.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.runtimeconfig.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.genruntimeconfig.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.deps.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.runtimeconfig.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\bin\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.sourcelink.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB.E34AA384.Up2Date
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\refint\PustokAB204.Data.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\PustokAB204.Data.genruntimeconfig.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Data\obj\Debug\net6.0\ref\PustokAB204.Data.dll

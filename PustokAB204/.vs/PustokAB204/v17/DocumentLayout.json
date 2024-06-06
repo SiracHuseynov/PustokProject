@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\dtos\\authordtos\\authorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\authordtos\\authorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\services\\concretes\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\services\\concretes\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\dtos\\authordtos\\authorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\authordtos\\authorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|solutionrelative:pustokab204.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|solutionrelative:pustokab204.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\services\\abstracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\services\\abstracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\services\\concretes\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\services\\concretes\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\services\\abstracts\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\services\\abstracts\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|solutionrelative:pustokab204.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.business\\dtos\\authordtos\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37F3525-6EAB-43D9-BB78-0BA7F31EADDB}|PustokAB204.Business\\PustokAB204.Business.csproj|solutionrelative:pustokab204.business\\dtos\\authordtos\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|solutionrelative:pustokab204.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\repositoryconcretes\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\repositoryconcretes\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.core\\repositoryabstracts\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601FDCDD-9F40-40AE-A859-AA82AAABCE52}|PustokAB204.Core\\PustokAB204.Core.csproj|solutionrelative:pustokab204.core\\repositoryabstracts\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3AAA780-7AC5-4748-A40D-B2D81CE4782D}|PustokAB204\\PustokAB204.csproj|solutionrelative:pustokab204\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\migrations\\20240605192313_createauthorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\migrations\\20240605192313_createauthorstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|c:\\users\\sirac huseynov\\desktop\\ab204\\pustokab204\\pustokab204.data\\migrations\\20240605190926_tablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFCFAF-AE20-4226-802E-2358D95E8F92}|PustokAB204.Data\\PustokAB204.Data.csproj|solutionrelative:pustokab204.data\\migrations\\20240605190926_tablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\BookService.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Concretes\\BookService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\BookService.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Services\\Concretes\\BookService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwE8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:11:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwD0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:17:27.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:31:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T19:47:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Update.cshtml",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Views\\Book\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Update.cshtml",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Views\\Book\\Update.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:06:35.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "PustokAB204.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA2wCMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:12:16.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorUpdateDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorUpdateDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:31:19.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookGetDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\BookDTOs\\BookGetDTO.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\BookDTOs\\BookGetDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\BookDTOs\\BookGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:29:57.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Program.cs",
+              "RelativeDocumentMoniker": "PustokAB204\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Program.cs",
+              "RelativeToolTip": "PustokAB204\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:17:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:43:39.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:43:40.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:48:31.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\Models\\Book.cs",
+              "RelativeToolTip": "PustokAB204.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:20:21.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorGetDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorGetDTO.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorGetDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:29:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\AuthorService.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Concretes\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Concretes\\AuthorService.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Services\\Concretes\\AuthorService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:36:06.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Abstracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Abstracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Abstracts\\IBookService.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Services\\Abstracts\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:34:32.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:10:43.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "PustokAB204.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:11:35.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T19:47:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PustokAB204\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PustokAB204\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T19:53:04.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Services\\Abstracts\\IFeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:41:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Core\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\Models\\Author.cs",
+              "RelativeToolTip": "PustokAB204.Core\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:19:37.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Abstracts\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\Services\\Abstracts\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\Services\\Abstracts\\IAuthorService.cs",
+              "RelativeToolTip": "PustokAB204.Business\\Services\\Abstracts\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:25:16.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorCreateDTO.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorCreateDTO.cs",
+              "RelativeToolTip": "PustokAB204.Business\\DTOs\\AuthorDTOs\\AuthorCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:02.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "PustokAB204.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:45.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\RepositoryConcretes\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\RepositoryConcretes\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\RepositoryConcretes\\AuthorRepository.cs",
+              "RelativeToolTip": "PustokAB204.Data\\RepositoryConcretes\\AuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:24:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\RepositoryAbstracts\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Core\\RepositoryAbstracts\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Core\\RepositoryAbstracts\\IAuthorRepository.cs",
+              "RelativeToolTip": "PustokAB204.Core\\RepositoryAbstracts\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:23:48.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240605192313_CreateAuthorsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Migrations\\20240605192313_CreateAuthorsTable.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\Migrations\\20240605192313_CreateAuthorsTable.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Migrations\\20240605192313_CreateAuthorsTable.cs",
+              "RelativeToolTip": "PustokAB204.Data\\Migrations\\20240605192313_CreateAuthorsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:23:13.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "PustokAB204.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:22:44.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "PustokAB204.Data\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:21:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "PustokAB204.Data\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:21:12.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240605190926_TablesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Migrations\\20240605190926_TablesAdded.cs",
+              "RelativeDocumentMoniker": "PustokAB204.Data\\Migrations\\20240605190926_TablesAdded.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204.Data\\Migrations\\20240605190926_TablesAdded.cs",
+              "RelativeToolTip": "PustokAB204.Data\\Migrations\\20240605190926_TablesAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:09:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\appsettings.json",
+              "RelativeDocumentMoniker": "PustokAB204\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\AB204\\PustokAB204\\PustokAB204\\appsettings.json",
+              "RelativeToolTip": "PustokAB204\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T19:08:37.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

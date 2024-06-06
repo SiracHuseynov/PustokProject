@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\bin\Debug\net6.0\PustokAB204.Core.deps.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\bin\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\bin\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.sourcelink.json
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\refint\PustokAB204.Core.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\ref\PustokAB204.Core.dll
+C:\Users\User\Desktop\CodeAcademy\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\bin\Debug\net6.0\PustokAB204.Core.deps.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\bin\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\bin\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.sourcelink.json
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\refint\PustokAB204.Core.dll
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\PustokAB204.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\AB204\PustokAB204\PustokAB204.Core\obj\Debug\net6.0\ref\PustokAB204.Core.dll
